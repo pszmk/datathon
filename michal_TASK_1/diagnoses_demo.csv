@@ -1,0 +1,18 @@
+stay_id,diagnosis_code,type_of_diagnosis,kind_of_diagnosis
+S1,I10,Clinical,Main / Primary
+S2,I21,Clinical,Main / Primary
+S4,T81.4,Clinical,Secondary
+S3,K35,Clinical,Main / Primary
+S4,I10,Clinical,Main / Primary
+S5,J18,Clinical,Main / Primary
+S6,J45,Clinical,Main / Primary
+S7,I10,Clinical,Main / Primary
+S8,I10,Clinical,Main / Primary
+S9,I63,Clinical,Main / Primary
+S10,F20,Clinical,Main / Primary
+S11,Z51.11,Clinical,Main / Primary
+S12,I10,Clinical,Main / Primary
+S13,I10,Clinical,Main / Primary
+S14,I10,Clinical,Main / Primary
+S15,I10,Clinical,Main / Primary
+S16,U07.1,Clinical,Main / Primary

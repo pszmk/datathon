@@ -1,0 +1,7 @@
+patient_id,hospitalization_id,episode_start,episode_end,patient_age,patient_sex,hospital_admission_procedure,hospital_discharge_procedure,discharge_category,count_of_comorbidities,primary_dx_code,primary_is_psychiatry,primary_is_cancer_treatment,has_covid_dx,next_hospitalization_id,days_to_next,is_readmission_30d,next_is_emergency_admission,next_has_complication_dx,is_unplanned_readmission
+P1,H1,2025-01-01,2025-01-05,65,F,planned admission based on a referral,completion of the therapeutic or diagnostic process,standard,0,I10,False,False,False,H2,15.0,True,True,False,1
+P10,H1,2025-09-01,2025-09-05,70,F,planned admission based on a referral,completion of the therapeutic or diagnostic process,standard,0,I10,False,False,False,H2,15.0,True,False,False,0
+P2,H1,2025-02-01,2025-02-05,58,M,planned admission based on a referral,referral for further treatment in an outpatient setting,standard,0,K35,False,False,False,H2,20.0,True,False,True,1
+P3,H1,2025-03-01,2025-03-10,72,F,planned admission based on a referral,completion of the therapeutic or diagnostic process,standard,0,J18,False,False,False,H2,36.0,False,False,False,0
+P3,H2,2025-04-15,2025-04-18,72,F,planned admission based on a referral,completion of the therapeutic or diagnostic process,standard,0,J45,False,False,False,,,False,,,0
+P9,H1,2025-08-01,2025-08-05,60,F,planned admission based on a referral,completion of the therapeutic or diagnostic process,standard,0,I10,False,False,False,H2,15.0,True,False,False,0

@@ -1,0 +1,17 @@
+patient_id,hospitalization_id,stay_id,patient_age,patient_sex,stay_start_date,stay_end_date,hospital_admission_procedure,hospital_discharge_procedure,did_patient_die
+P1,H1,S1,65,F,2025-01-01,2025-01-05,planned admission based on a referral,completion of the therapeutic or diagnostic process,0
+P1,H2,S2,65,F,2025-01-20,2025-01-22,emergency admission,completion of the therapeutic or diagnostic process,0
+P2,H1,S3,58,M,2025-02-01,2025-02-05,planned admission based on a referral,referral for further treatment in an outpatient setting,0
+P2,H2,S4,58,M,2025-02-25,2025-02-27,planned admission based on a referral,completion of the therapeutic or diagnostic process,0
+P3,H1,S5,72,F,2025-03-01,2025-03-10,planned admission based on a referral,completion of the therapeutic or diagnostic process,0
+P3,H2,S6,72,F,2025-04-15,2025-04-18,planned admission based on a referral,completion of the therapeutic or diagnostic process,0
+P4,H1,S7,66,F,2025-03-01,2025-03-10,planned admission based on a referral,referral for further treatment in another hospital,0
+P5,H1,S8,17,M,2025-03-01,2025-03-10,planned admission based on a referral,referral for further treatment in an outpatient setting,0
+P6,H1,S9,80,F,2025-05-01,2025-05-10,planned admission based on a referral,patient's death,1
+P7,H1,S10,45,M,2025-06-01,2025-06-10,planned admission based on a referral,completion of the therapeutic or diagnostic process,0
+P8,H1,S11,52,M,2025-07-01,2025-07-10,planned admission based on a referral,completion of the therapeutic or diagnostic process,0
+P9,H1,S12,60,F,2025-08-01,2025-08-05,planned admission based on a referral,completion of the therapeutic or diagnostic process,0
+P9,H2,S13,60,F,2025-08-20,2025-08-22,planned admission based on a referral,completion of the therapeutic or diagnostic process,0
+P10,H1,S14,70,F,2025-09-01,2025-09-05,planned admission based on a referral,completion of the therapeutic or diagnostic process,0
+P10,H2,S15,70,F,2025-09-20,2025-09-22,planned admission based on a referral,completion of the therapeutic or diagnostic process,0
+P11,H1,S16,63,M,2025-01-12,2025-01-16,planned admission based on a referral,completion of the therapeutic or diagnostic process,0
