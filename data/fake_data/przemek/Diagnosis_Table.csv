@@ -1,0 +1,101 @@
+stay_id,diagnosis_code,type_of_diagnosis,kind_of_diagnosis
+36,D14,Clinical,Comorbid
+43,C81,Clinical,Main
+30,D23,Preliminary,Comorbid
+53,C87,Oncological,Main
+27,D69,Preliminary,Secondary
+49,D05,Of death,Comorbid
+54,E89,Clinical,Comorbid
+29,C67,Preliminary,Comorbid
+44,F62,Oncological,Main
+80,E06,Preliminary,Main
+83,D27,Clinical,Main
+34,D53,Oncological,Comorbid
+44,D46,Of death,Main
+61,A80,Of death,Main
+84,A00,Clinical,Main
+3,E23,Clinical,Comorbid
+86,A93,Oncological,Secondary
+33,C29,Preliminary,Main
+40,A90,Of death,Secondary
+87,D63,Preliminary,Secondary
+89,F31,Of death,Secondary
+77,A90,Of death,Secondary
+55,F51,Of death,Main
+54,D16,Of death,Secondary
+59,F26,Clinical,Secondary
+67,F49,Oncological,Comorbid
+56,F94,Of death,Main
+12,C73,Oncological,Secondary
+79,F65,Preliminary,Comorbid
+42,B73,Of death,Comorbid
+44,C94,Preliminary,Secondary
+25,A36,Oncological,Secondary
+98,B77,Oncological,Main
+12,C36,Clinical,Comorbid
+85,E57,Of death,Comorbid
+96,E55,Oncological,Comorbid
+40,C31,Clinical,Comorbid
+16,F82,Clinical,Main
+95,D49,Of death,Main
+25,C35,Clinical,Comorbid
+2,F82,Of death,Main
+7,E42,Oncological,Main
+2,E47,Oncological,Comorbid
+44,B04,Oncological,Main
+9,D71,Preliminary,Main
+20,E41,Clinical,Main
+72,D99,Clinical,Secondary
+49,D74,Oncological,Comorbid
+73,E09,Preliminary,Main
+81,B41,Clinical,Main
+23,E12,Preliminary,Comorbid
+58,F97,Of death,Main
+30,C47,Preliminary,Secondary
+30,C93,Oncological,Main
+70,B24,Clinical,Main
+8,B49,Of death,Comorbid
+16,D46,Of death,Secondary
+70,D71,Preliminary,Comorbid
+95,C94,Preliminary,Main
+30,F99,Preliminary,Secondary
+35,E02,Oncological,Secondary
+84,D42,Oncological,Secondary
+63,A75,Oncological,Comorbid
+42,F12,Of death,Comorbid
+89,D46,Preliminary,Comorbid
+12,C45,Preliminary,Comorbid
+66,A87,Oncological,Main
+25,E59,Oncological,Secondary
+57,A34,Clinical,Comorbid
+57,F71,Preliminary,Secondary
+78,B24,Preliminary,Secondary
+53,A31,Oncological,Main
+83,B74,Of death,Comorbid
+62,D37,Clinical,Comorbid
+25,E82,Preliminary,Comorbid
+99,D58,Of death,Main
+37,F49,Oncological,Main
+58,E75,Of death,Secondary
+98,E67,Of death,Main
+90,B96,Clinical,Comorbid
+6,C76,Oncological,Secondary
+84,B70,Clinical,Secondary
+76,C17,Preliminary,Secondary
+59,A26,Clinical,Main
+61,C59,Oncological,Secondary
+11,C86,Of death,Secondary
+92,D80,Preliminary,Main
+81,F43,Preliminary,Comorbid
+13,F17,Clinical,Secondary
+39,A05,Preliminary,Comorbid
+46,C62,Clinical,Secondary
+53,E22,Clinical,Main
+79,D93,Oncological,Secondary
+19,B74,Oncological,Comorbid
+86,A74,Clinical,Main
+57,C94,Oncological,Secondary
+33,D43,Oncological,Comorbid
+14,B69,Of death,Secondary
+38,F40,Oncological,Comorbid
+2,E09,Oncological,Comorbid
